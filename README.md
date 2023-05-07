@@ -1,7 +1,7 @@
-# Hello My Name is Suyeong
+# Hello My Name is Suyeong 🐧
 
-I'm a front-end developer with a passion for finding problems and solutions and creating clean and efficient code. 
-I really like trying and learning something new. It never gets boring.
+### I'm a front-end developer with a passion for finding problems and solutions and creating clean and efficient code. 
+### I really like trying and learning something new. It never gets boring.
 
 ## More about Me 
 - 🔗 https://suyeong.ca
