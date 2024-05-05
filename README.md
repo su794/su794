@@ -4,7 +4,6 @@
 ### I really like trying and learning something new. It never gets boring.
 
 ## More about Me 
-- 🔗 https://suyeong.ca
 - 💻 Skillsets: 
   - HTML, CSS, SCSS, JavaScript, jQuery, PHP, React, Git, SEO, WordPress
 
