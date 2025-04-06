@@ -5,7 +5,7 @@
 
 ## More about Me 
 - 💻 Skillsets: 
-  - HTML, CSS, SCSS, JavaScript, jQuery, PHP, React, Git, SEO, WordPress
+  - HTML, CSS, SCSS, JavaScript, jQuery, PHP, React.js, Next.js, GraphQL, Git, SEO, WordPress
 
 <!--
 **su794/su794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
